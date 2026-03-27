@@ -1,4 +1,4 @@
-![Map output — 83 geocoded Greek settlement renamings plotted on geojson.io](output.png)
+![Map output — 83 geocoded Greek settlement renamings plotted on geojson.io](Output.png)
 
 # Pandektis Settlement Renaming Scraper
 ### Greek Settlement Renamings — EKT / National Documentation Centre
